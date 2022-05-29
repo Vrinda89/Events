@@ -8,6 +8,12 @@ A Flutter project to list events from API.
  
  State Management : Provider
  
+ Functionalities Added :
+ 
+   - Listing events from API with pagination
+   - Details Screen while clicking on list item
+   - Add to favourites
+ 
 
 Events List Screen
 
