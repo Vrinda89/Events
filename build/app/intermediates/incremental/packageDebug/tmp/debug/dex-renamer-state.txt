@@ -1,0 +1,4 @@
+#Sun May 29 12:39:35 GST 2022
+base.0=/Users/nitheeshks/Documents/events_book/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

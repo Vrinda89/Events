@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nitheeshks/Documents/events_book/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/nitheeshks/Documents/events_book/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,914",
+                        "endLines": "9,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "572,1061"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,460",
+                        "endLines": "8,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "455,607"
+                    }
+                }
+            ]
+        }
+    ]
+}
